@@ -7,5 +7,5 @@ COMO USAR?
 
 2. Para visualizar informações adicionais sobre algum personagem basta clicar em seu card. Para voltar basta clicar em qualquer parte da tela.
 
-Este site está hospedato no **GitHub Pages.** Para acessá-lo [clique aqui]
+Este site está hospedato no **GitHub Pages.** Para acessá-lo [[clique aqui](https://thiagogilcamargo.github.io/star-wars-characters-master/Star-Wars-Characters-master/)]
 Em caso de ERRO ou BUG, abra uma issue em nosso repositório.
